@@ -1,0 +1,6 @@
+import redis
+
+r = redis.Redis(
+    host='SG-myappredis-21372.servers.mongodirector.com',
+    port=6379, 
+    password='UQcG0SU1MTGzLJ67vKadY7DMjH9bDloU')
