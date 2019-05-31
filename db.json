@@ -1,15 +1,7 @@
 {
-  "statuses": {
-    { "activityId": "activity1", "actor":"actor1","created": "01-04-2019 00:22:22","text":"This is one text","imageId":"image1"},
-    { "activityId": "activity2", "actor":"actor2","created": "02-04-2019 00:22:22","text":"This is two text","imageId":"image2"},
-    { "activityId": "activity3", "actor":"actor3","created": "03-04-2019 00:22:22","text":"This is three text","imageId":"image3"},
-    { "activityId": "activity4", "actor":"actor4","created": "04-04-2019 00:22:22","text":"This is four text","imageId":"image4"}
-},
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+ 
+    [ "activityId": "activity1", "actor":"actor1","created": "01-04-2019 00:22:22","text":"This is one text","imageId":"image1"],
+    [ "activityId": "activity2", "actor":"actor2","created": "02-04-2019 00:22:22","text":"This is two text","imageId":"image2"],
+    [ "activityId": "activity3", "actor":"actor3","created": "03-04-2019 00:22:22","text":"This is three text","imageId":"image3"],
+    [ "activityId": "activity4", "actor":"actor4","created": "04-04-2019 00:22:22","text":"This is four text","imageId":"image4"]
 }
